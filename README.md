@@ -1,1 +1,1 @@
-# refarch-bc master full readme
+# refarch-bc tutorial skinny readme
